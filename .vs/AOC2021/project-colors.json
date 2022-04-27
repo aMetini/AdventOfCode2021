@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7e61f366-32f2-46da-b688-884c4c8e7022": {
+      "ProjectGuid": "7e61f366-32f2-46da-b688-884c4c8e7022",
+      "DisplayName": "AOC2021_Test",
+      "ColorIndex": 0
+    },
+    "65b3164e-c09a-4232-9758-bdaa164f2dfa": {
+      "ProjectGuid": "65b3164e-c09a-4232-9758-bdaa164f2dfa",
+      "DisplayName": "AOC2021",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
